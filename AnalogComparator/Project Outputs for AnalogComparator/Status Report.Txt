@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [AnalogComparator.PrjPcb]
+   Generated File[Bill of Materials-AnalogComparator.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:33:08 AM On 8/3/2023
