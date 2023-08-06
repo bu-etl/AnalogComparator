@@ -1,0 +1,6 @@
+Added Component: Designator=U(SOT95P275X110-5N)
+Add Pin To Net: Unknown Pin: Pin U-2
+Added Pin To Net: NetName=GND Pin=U-3
+Added Pin To Net: NetName=1V8 Pin=U-4
+Added Pin To Net: NetName=out Pin=U-5
+Added Member To Class: ClassName=CompSchm Member=Component U 74LV1T34GV-Q100H
