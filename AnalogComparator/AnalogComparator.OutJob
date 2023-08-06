@@ -36,7 +36,7 @@ OutputMedium4_Type=GeneratedFiles
 OutputType1=Schematic Print
 OutputName1=Schematic Prints
 OutputCategory1=Documentation
-OutputDocumentPath1=
+OutputDocumentPath1=[Project Physical Documents]
 OutputVariantName1=
 OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
@@ -50,7 +50,7 @@ Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType2=PCB Print
 OutputName2=PCB Prints
 OutputCategory2=Documentation
-OutputDocumentPath2=AnaCompPCB.PcbDoc
+OutputDocumentPath2=
 OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
