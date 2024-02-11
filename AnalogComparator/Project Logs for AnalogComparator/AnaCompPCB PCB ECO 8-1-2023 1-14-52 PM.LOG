@@ -1,6 +1,0 @@
-Change Component Footprint: Designator=R2 Old Footprint=FP-RN73R2A-MFG New Footprint=RESC2013X50X40NL20T20
-Change Component Comment : Designator=R2 Old Comment=149K ohm New Comment=12K ohm
-Change Managed Component Library Link : Designator=R2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2752851C-276C-4493-A552-F6281F4A8C77 New ItemGUID=9D81387C-B603-422E-9CA2-2952192BA087 Old RevisionGUID=C89BF7BD-3E3F-467D-A1C3-1DCCAEBFEACD New RevisionGUID=815AEB3E-B460-4DEA-90BC-6D0908030CCE
-Change component parameters: Designator = "R2" ("R2"); Footprint = "FP-RN73R2A-MFG"; UniqueID = "\RKTDZNLT" ("\RKTDZNLT")
-Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Part Number"; Value = "RG2012N-123-W-T1"; VariantName = "[No Variations]"
